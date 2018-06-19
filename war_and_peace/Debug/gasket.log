@@ -1,0 +1,165 @@
+﻿  gasket.c
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(13): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(23): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(47): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(72): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(66): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(91): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(85): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(110): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(104): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(123): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(148): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(142): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(167): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(161): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(203): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(205): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(206): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(513): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(532): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(544): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(554): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(563): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(611): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(613): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(614): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(615): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(616): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(620): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(622): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(631): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(679): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(681): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(682): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(683): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(684): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(688): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(690): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(699): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(790): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(797): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(865): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(866): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(867): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(868): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(872): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(873): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(874): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(875): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(878): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(881): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(888): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(956): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(957): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(958): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(959): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(963): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(964): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(965): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(966): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(969): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(972): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(979): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1017): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1033): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1040): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1053): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1060): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1112): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1119): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1128): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1136): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1145): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1152): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1160): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1167): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1176): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1230): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1484): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1500): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1507): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1515): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1522): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1554): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1587): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1613): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1620): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1627): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1635): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1659): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1683): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1717): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1718): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1752): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1760): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1768): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1775): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1783): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1790): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1854): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1863): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1870): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1878): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1885): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1893): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1894): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1926): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1934): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1935): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1938): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1939): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1941): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1942): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1943): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1945): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1998): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(1999): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2003): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2004): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2005): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2006): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2009): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2016): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2024): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2031): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2039): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2040): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2041): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2042): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2044): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2045): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2047): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2048): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2050): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2051): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2052): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2053): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2055): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2119): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2126): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2134): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2141): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2178): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2189): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2197): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2205): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2213): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2223): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2230): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2270): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2322): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2330): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2364): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2371): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2387): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2394): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2402): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2409): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2442): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2557): warning C4305: 'function': truncation from 'double' to 'GLclampf'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2559): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\nehat\desktop\work\projects\computer_graphics\war_and_peace\gasket.c(2620): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+  gasket.vcxproj -> C:\Users\nehat\Desktop\Work\projects\computer_graphics\war_and_peace\Debug\gasket.exe
